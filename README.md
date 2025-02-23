@@ -5,7 +5,7 @@ console input/output but better.
 ## how to install
 
 ### 1. using `gavel` (recommended):
-#### install gavel using:
+#### install `gavel` using:
 ```commandline
 git clone https://github.com/fossil-org/gavel.git
 pipx install ./gavel
